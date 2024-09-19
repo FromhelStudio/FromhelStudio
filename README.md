@@ -1,4 +1,4 @@
-<a href="fromhelstudio.com">
+<a href="https://fromhelstudio.com">
   <img src="./docs/logo.png" width="200px"/>
 </a>
 
