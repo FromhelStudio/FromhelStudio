@@ -5,7 +5,7 @@
 # FromHel Studio
 
 - A Indie Game Studio
-- From Heliopólis (🇧🇷) to World
+- From Heliópolis (🇧🇷) to World
 - Made by Brazilians for Brazilians
 
 ## Profile
